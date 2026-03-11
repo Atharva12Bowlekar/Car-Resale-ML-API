@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: car-resale-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: car-resale-api
+  template:
+    metadata:
+      labels:
+        app: car-resale-api
+    spec:
+      containers:
+      - name: car-resale-api
+        image: car-resale-api
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8000
