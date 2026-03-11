@@ -246,3 +246,16 @@ kubectl get services
 * FastAPI
 * Scikit-learn
 * Pandas
+- Docker
+- Kubernetes
+- Uvicorn
+
+---
+
+
+# Author
+
+**Atharva Bowlekar**
+
+Master's in Applied Data Science and Statistics  
+University of Exeter
