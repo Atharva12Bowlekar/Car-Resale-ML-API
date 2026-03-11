@@ -140,10 +140,10 @@ Example JSON request:
 
 ```
 {
-  "predicted_price": 8.5 (in lakhs)
+  "predicted_price": 8.5 
 }
 ```
-
+* Note that the predicted_price is in lakhs. So the final price will be 8,50,000.
 ---
 
 ## Running the Project Locally
@@ -246,9 +246,9 @@ kubectl get services
 * FastAPI
 * Scikit-learn
 * Pandas
-- Docker
-- Kubernetes
-- Uvicorn
+* Docker
+* Kubernetes
+* Uvicorn
 
 ---
 
