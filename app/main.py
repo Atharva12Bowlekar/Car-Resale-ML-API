@@ -9,7 +9,6 @@ from fastapi import FastAPI
 from app.schema import cars_specs
 from app.model import xgb_model
 
-
 import warnings
 warnings.filterwarnings(action="ignore")
 
@@ -29,6 +28,7 @@ def predict(data: cars_specs):
     #            "mileage", "engine", "max_power", "seats"]
 
     # test_df = pd.DataFrame(test_data, columns=columns)
+
 
     data_dict = data.model_dump()
     test_df = pd.DataFrame([data_dict])

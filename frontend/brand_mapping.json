@@ -1,0 +1,187 @@
+{
+    "Maruti": [
+        "Maruti Alto",
+        "Maruti Wagon R",
+        "Maruti Swift",
+        "Maruti Ciaz",
+        "Maruti Baleno",
+        "Maruti Swift Dzire",
+        "Maruti Ignis",
+        "Maruti Vitara",
+        "Maruti Celerio",
+        "Maruti Ertiga",
+        "Maruti Eeco",
+        "Maruti Dzire VXI",
+        "Maruti XL6",
+        "Maruti S-Presso",
+        "Maruti Dzire LXI",
+        "Maruti Dzire ZXI"
+    ],
+    "Hyundai": [
+        "Hyundai Grand",
+        "Hyundai i20",
+        "Hyundai i10",
+        "Hyundai Venue",
+        "Hyundai Verna",
+        "Hyundai Creta",
+        "Hyundai Santro",
+        "Hyundai Elantra",
+        "Hyundai Aura",
+        "Hyundai Tucson"
+    ],
+    "Ford": [
+        "Ford Ecosport",
+        "Ford Aspire",
+        "Ford Figo",
+        "Ford Endeavour",
+        "Ford Freestyle"
+    ],
+    "Renault": [
+        "Renault Duster",
+        "Renault KWID",
+        "Renault Triber"
+    ],
+    "Mini": [
+        "Mini Cooper"
+    ],
+    "Mercedes-Benz": [
+        "Mercedes-Benz C-Class",
+        "Mercedes-Benz E-Class",
+        "Mercedes-Benz GL-Class",
+        "Mercedes-Benz S-Class",
+        "Mercedes-Benz CLS",
+        "Mercedes-Benz GLS"
+    ],
+    "Toyota": [
+        "Toyota Innova",
+        "Toyota Fortuner",
+        "Toyota Camry",
+        "Toyota Yaris",
+        "Toyota Glanza"
+    ],
+    "Volkswagen": [
+        "Volkswagen Vento",
+        "Volkswagen Polo"
+    ],
+    "Honda": [
+        "Honda City",
+        "Honda Amaze",
+        "Honda CR-V",
+        "Honda Jazz",
+        "Honda Civic",
+        "Honda WR-V",
+        "Honda CR"
+    ],
+    "Mahindra": [
+        "Mahindra Bolero",
+        "Mahindra XUV500",
+        "Mahindra KUV100",
+        "Mahindra Scorpio",
+        "Mahindra Marazzo",
+        "Mahindra KUV",
+        "Mahindra Thar",
+        "Mahindra XUV300",
+        "Mahindra Alturas"
+    ],
+    "Datsun": [
+        "Datsun RediGO",
+        "Datsun GO",
+        "Datsun redi-GO"
+    ],
+    "Tata": [
+        "Tata Tiago",
+        "Tata Tigor",
+        "Tata Safari",
+        "Tata Hexa",
+        "Tata Nexon",
+        "Tata Harrier",
+        "Tata Altroz"
+    ],
+    "Kia": [
+        "Kia Seltos",
+        "Kia Carnival"
+    ],
+    "BMW": [
+        "BMW 5",
+        "BMW 3",
+        "BMW Z4",
+        "BMW 6",
+        "BMW X5",
+        "BMW X1",
+        "BMW 7",
+        "BMW X3",
+        "BMW X4"
+    ],
+    "Audi": [
+        "Audi A4",
+        "Audi A6",
+        "Audi Q7",
+        "Audi A8"
+    ],
+    "Land Rover": [
+        "Land Rover Rover"
+    ],
+    "Jaguar": [
+        "Jaguar XF",
+        "Jaguar F-PACE",
+        "Jaguar XE"
+    ],
+    "MG": [
+        "MG Hector"
+    ],
+    "Isuzu": [
+        "Isuzu D-Max",
+        "Isuzu MUX"
+    ],
+    "Porsche": [
+        "Porsche Cayenne",
+        "Porsche Macan",
+        "Porsche Panamera"
+    ],
+    "Skoda": [
+        "Skoda Rapid",
+        "Skoda Superb",
+        "Skoda Octavia"
+    ],
+    "Volvo": [
+        "Volvo S90",
+        "Volvo XC",
+        "Volvo XC90",
+        "Volvo XC60"
+    ],
+    "Lexus": [
+        "Lexus ES",
+        "Lexus NX",
+        "Lexus RX"
+    ],
+    "Jeep": [
+        "Jeep Wrangler",
+        "Jeep Compass"
+    ],
+    "Maserati": [
+        "Maserati Ghibli",
+        "Maserati Quattroporte"
+    ],
+    "Bentley": [
+        "Bentley Continental"
+    ],
+    "Nissan": [
+        "Nissan Kicks",
+        "Nissan X-Trail"
+    ],
+    "ISUZU": [
+        "ISUZU MUX"
+    ],
+    "Ferrari": [
+        "Ferrari GTC4Lusso"
+    ],
+    "Mercedes-AMG": [
+        "Mercedes-AMG C"
+    ],
+    "Rolls-Royce": [
+        "Rolls-Royce Ghost"
+    ],
+    "Force": [
+        "Force Gurkha"
+    ]
+}
